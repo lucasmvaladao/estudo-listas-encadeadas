@@ -1,14 +1,13 @@
 # Estudo sobre Listas Encadeadas 📚
 
-Este repositório contém um estudo detalhado sobre **Listas Encadeadas** em Python. O arquivo abrange desde a teoria básica até a implementação prática, com exemplos de listas encadeadas simples e duplas, e funções auxiliares que facilitam a manipulação dos dados. O estudo também inclui exercícios interativos e de estilo prova para reforçar os conceitos.
-
+Este repositório contém um estudo detalhado sobre **Listas Encadeadas** em Python. O arquivo abrange desde a teoria básica até a implementação prática, com exemplos de listas encadeadas simples e duplas, e funções auxiliares que facilitam a manipulação dos dados. 
 ## Capítulos do Estudo
 
 ### 1. Introdução às Listas Encadeadas 📝
 - Definição e características das listas encadeadas.
 - Vantagens em relação a listas comuns.
-- Casos de uso real de listas encadeadas (como no navegador, fila de impressão, etc.).
--  Diferença entre Lista Encadeada Simples e Dupla
+- Quando usar cada tipo de lista encadeada e comparações.
+- Diferença entre Lista Encadeada Simples e Dupla
 
 ### 2. Criando uma Lista Encadeada Simples 🔧
 - Implementação de uma lista encadeada simples usando dicionários.
