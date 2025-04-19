@@ -8,6 +8,7 @@ Este repositório contém um estudo detalhado sobre **Listas Encadeadas** em Pyt
 - Definição e características das listas encadeadas.
 - Vantagens em relação a listas comuns.
 - Casos de uso real de listas encadeadas (como no navegador, fila de impressão, etc.).
+-  Diferença entre Lista Encadeada Simples e Dupla
 
 ### 2. Criando uma Lista Encadeada Simples 🔧
 - Implementação de uma lista encadeada simples usando dicionários.
@@ -21,7 +22,3 @@ Este repositório contém um estudo detalhado sobre **Listas Encadeadas** em Pyt
 
 ### 5. Funções Auxiliares 🔍
 - Funções para contar nós, converter para uma lista comum e buscar um valor na lista.
-
-### 6. Diferença entre Lista Encadeada Simples e Dupla 🔄
-- Explicação sobre as diferenças entre as listas simples e duplas.
-- Implementação de uma lista encadeada dupla, com funções para navegação bidirecional.
